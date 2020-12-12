@@ -1,0 +1,8 @@
+the developing python version is 3.8
+
+using the libraries below:
+
+pandas 1.0.1
+numpy 1.18.1
+matplotlib 3.2.2
+seaborn 0.11.0
